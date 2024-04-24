@@ -10,3 +10,4 @@ Do the following to setup the database and CLI:
 7. Download the psycopg2 Python library by running the following command in the command prompt: pip install psycopg2
 8. Download the tabulate Python library by running the following command in the command prompt: pip install tabulate
 9. Adjust the information within the connection statement at the beginning of the script.
+10. Now the Python script is ready to be used to manage the database. 

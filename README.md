@@ -1,7 +1,10 @@
 # CMPSC431W Project 3
 Welcome to the database management for E-Commerce business.
 Do the following to setup the database and CLI:
-1. Create a database in PostgreSQL
-2. Restore data with the SQL_Tables.sql file
-3. Download and open the CLI.py script.
-4. Adjust the information within the connection statement at the beginning of the script.
+1. Create a database in PostgreSQL by right-clicking the "Databases" indented header.
+2. Download the SQL_Tables.sql file
+3. Insert the tables by right-clicking the newly created database and clicking "Restore..."
+4. Only change the Filename argument and import the SQL_Tables.sql file.
+5. Press "Restore"
+6. Download and open the CLI.py script.
+7. Adjust the information within the connection statement at the beginning of the script.
